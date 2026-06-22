@@ -1,0 +1,29 @@
+# Copyright (C) 2026 creampuffle
+# SPDX-License-Identifier: LicenseRef-CARROT-Study-1.0
+
+[package]
+name = "carrot-hybrid-key-schedule-demo"
+version = "0.1.0"
+edition = "2021"
+authors = ["creampuffle"]
+license-file = "LICENSE"
+description = "Isolated hybrid key-derivation proof for CARROT; contains no packet or transport implementation"
+repository = "https://github.com/creampuffle/carrot-hybrid-key-schedule-demo"
+publish = false
+
+[dependencies]
+hkdf = { version = "0.12.4", default-features = false }
+sha2 = { version = "0.10.9", default-features = false }
+zeroize = { version = "1.8.2", default-features = false }
+
+[dev-dependencies]
+fips203 = { version = "0.4.3", default-features = false, features = ["ml-kem-768"] }
+rand_core = { version = "0.6.4", features = ["getrandom"] }
+x25519-dalek = { version = "2.0.1", default-features = false, features = ["static_secrets", "zeroize"] }
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"
+overflow-checks = true

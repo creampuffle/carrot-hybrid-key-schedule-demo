@@ -1,0 +1,82 @@
+CARROT STUDY-ONLY SOURCE LICENSE
+Version 1.0
+
+Copyright (c) 2026 creampuffle
+All rights reserved.
+
+1. DEFINITIONS
+
+"Software" means the source code, examples, documentation, and other material
+distributed with this license.
+
+"Study Purposes" means personal study, classroom education, non-commercial
+academic research, and non-commercial security evaluation.
+
+2. LIMITED LICENSE GRANT
+
+Subject to every condition in this license, the copyright holder grants you a
+non-exclusive, non-transferable, royalty-free license to access, download,
+make private copies of, compile, execute, inspect, test, and modify the
+Software solely for Study Purposes.
+
+3. CONDITIONS
+
+Every copy or modified copy of the Software must:
+
+a. retain this license and the notice "Copyright (c) 2026 creampuffle";
+
+b. identify material modifications in a prominent source-code notice; and
+
+c. state that the copy is unofficial and is not endorsed by creampuffle.
+
+You may publish source-code forks or archives only when their sole purpose is
+a Study Purpose, they remain under this exact license, and access to them is
+provided without charge.
+
+4. PROHIBITED USES
+
+You may not, directly or indirectly:
+
+a. use the Software or a modified version in production, in a commercial or
+   business activity, or to provide any product or service;
+
+b. deploy the Software or a modified version as part of an operational
+   network, communications system, security product, or transport protocol;
+
+c. sell, sublicense, rent, lease, or otherwise commercially distribute the
+   Software or a modified version;
+
+d. remove, obscure, or alter the copyright, attribution, or license notices;
+
+e. use the name creampuffle to endorse or promote a modified version, product,
+   or service; or
+
+f. use the Software outside the Study Purposes expressly granted in section 2.
+
+5. NO PATENT OR TRADEMARK LICENSE
+
+No patent, trademark, trade-name, or branding rights are granted. Any rights
+not expressly granted by this license are reserved by the copyright holder.
+
+6. TERMINATION
+
+Your rights under this license terminate automatically upon breach. After
+termination, you must stop using the Software and delete all copies in your
+possession or control. Sections 4, 5, 7, and 8 survive termination.
+
+7. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO
+THE SOFTWARE OR ITS USE.
+
+9. COMMERCIAL OR PRODUCTION LICENSING
+
+Permission for any use outside this license requires a separate written
+license from the copyright holder.
